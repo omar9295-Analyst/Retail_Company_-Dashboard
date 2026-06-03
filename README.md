@@ -1,15 +1,20 @@
 **Retail Company Dashboard - Data Analysis Project**
 
-**📌 Project Overview : **
+**📌 Project Overview :**
+
 This project explores how retail companies truly operate by analyzing operational and sales data to uncover different business dynamics. The dashboard provides a comprehensive view of core KPIs, customer demographics, return rates, and space efficiency to drive actionable insights. 
 
-**🛠️ Tools & Technologies : **
+
+**🛠️ Tools & Technologies :**
 
 1-** Creating Database & Cleaning & Transforming :** Mysql
+
 2-** Data Modeling & Visualization:** Power BI. 
+
 3- **UI/UX Design:** Custom-designed layouts with interactive tooltips and drill-through features for deeper insights.  
 
-**🗄️ Data Modeling & Methodology : **
+
+**🗄️ Data Modeling & Methodology :**
 
 The database utilizes a central schema design where a main fact table (Fact_Sales) connects to multiple supporting dimension tables (e.g., Product, Stores, Calendar) to facilitate easy and efficient data analysis.  Some of these dimension tables are also connected to other sub-tables to handle complex hierarchical data.  
 

@@ -4,6 +4,8 @@
 
 This project explores how retail companies truly operate by analyzing operational and sales data to uncover different business dynamics. The dashboard provides a comprehensive view of core KPIs, customer demographics, return rates, and space efficiency to drive actionable insights. 
 
+<img width="1344" height="746" alt="Graduation project _ Overview" src="https://github.com/user-attachments/assets/7ef27b16-f78d-468d-b3e2-ab3355f3b9de" />
+
 
 **🛠️ Tools & Technologies :**
 
@@ -75,3 +77,16 @@ The database utilizes a central schema design where a main fact table (Fact_Sale
 7- **Customer Loyalty:** Implement reward programs for high-spending customers to encourage repeat purchases. 
 
 8- **Market Expansion:** Open new stores in strategic areas with currently low customer penetration.  
+
+
+**Full Dashboard**
+<img width="1330" height="747" alt="Graduation project _ Home" src="https://github.com/user-attachments/assets/6ee42114-399f-42bc-ac5d-d92687015327" />
+<img width="1344" height="746" alt="Graduation project _ Overview" src="https://github.com/user-attachments/assets/28015f83-325b-4fd5-92cd-28340fe5ca33" />
+<img width="1340" height="747" alt="Graduation project _ Products" src="https://github.com/user-attachments/assets/4b84848c-b18e-4597-a3a3-a9fbfa40f846" />
+<img width="1337" height="748" alt="Graduation project _ Customers" src="https://github.com/user-attachments/assets/0768def9-e104-432b-957d-efb2020c38e7" />
+<img width="1336" height="745" alt="Graduation project _ Stores" src="https://github.com/user-attachments/assets/550d814d-85ca-4963-a463-3e86f4103761" />
+
+
+
+
+
